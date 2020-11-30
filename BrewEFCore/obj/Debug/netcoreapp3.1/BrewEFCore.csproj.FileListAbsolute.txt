@@ -1,0 +1,14 @@
+C:\Users\bpcar\Documents\GitHub\234N\final\Brewery\BrewEFCore\bin\Debug\netcoreapp3.1\BrewEFCore.deps.json
+C:\Users\bpcar\Documents\GitHub\234N\final\Brewery\BrewEFCore\bin\Debug\netcoreapp3.1\BrewEFCore.dll
+C:\Users\bpcar\Documents\GitHub\234N\final\Brewery\BrewEFCore\obj\Debug\netcoreapp3.1\BrewEFCore.csprojAssemblyReference.cache
+C:\Users\bpcar\Documents\GitHub\234N\final\Brewery\BrewEFCore\obj\Debug\netcoreapp3.1\BrewEFCore.AssemblyInfoInputs.cache
+C:\Users\bpcar\Documents\GitHub\234N\final\Brewery\BrewEFCore\obj\Debug\netcoreapp3.1\BrewEFCore.AssemblyInfo.cs
+C:\Users\bpcar\Documents\GitHub\234N\final\Brewery\BrewEFCore\bin\Debug\netcoreapp3.1\mySqlSettings.json
+C:\Users\bpcar\Documents\GitHub\234N\final\Brewery\BrewEFCore\bin\Debug\netcoreapp3.1\mySqlSettingsExample.json
+C:\Users\bpcar\Documents\GitHub\234N\final\Brewery\BrewEFCore\bin\Debug\netcoreapp3.1\BrewEFCore.pdb
+C:\Users\bpcar\Documents\GitHub\234N\final\Brewery\BrewEFCore\obj\Debug\netcoreapp3.1\BrewEFCore.dll
+C:\Users\bpcar\Documents\GitHub\234N\final\Brewery\BrewEFCore\obj\Debug\netcoreapp3.1\BrewEFCore.pdb
+C:\Users\bpcar\Documents\GitHub\234N\final\Brewery\BrewEFCore\bin\Debug\netcoreapp3.1\BrewEFCore.runtimeconfig.json
+C:\Users\bpcar\Documents\GitHub\234N\final\Brewery\BrewEFCore\bin\Debug\netcoreapp3.1\BrewEFCore.runtimeconfig.dev.json
+C:\Users\bpcar\Documents\GitHub\234N\final\Brewery\BrewEFCore\obj\Debug\netcoreapp3.1\BrewEFCore.genruntimeconfig.cache
+C:\Users\bpcar\Documents\GitHub\234N\final\Brewery\BrewEFCore\obj\Debug\netcoreapp3.1\BrewEFCore.csproj.CoreCompileInputs.cache
